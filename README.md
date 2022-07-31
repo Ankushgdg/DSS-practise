@@ -1,2 +1,2 @@
-# DSS-practise
-Hi DSS july-22 batch This is Practise Time
+# DSS-practice
+Hi DSS july-22 batch This is Practice Time.
